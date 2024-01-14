@@ -1,0 +1,6 @@
+{
+  "CERT_DIR": "<path to your certificate>",
+  "BASE_URL": "<base url of the tested API server >",
+  "HEADERS": "<('Content-Type: application/json')>",
+  "TASK_ID_PATH": "path to the task id file that will be written during the test"
+}
